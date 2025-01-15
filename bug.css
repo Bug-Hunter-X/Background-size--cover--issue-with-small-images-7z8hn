@@ -1,0 +1,1 @@
+The CSS rule `background-size: cover;` doesn't work as expected when the image is smaller than the container. The image won't scale up to fill the container, which might lead to unexpected visual results.  The expected behavior is the image filling the entire container, maintaining aspect ratio. 
